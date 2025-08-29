@@ -6,7 +6,7 @@ Projeto Acex
 
 Bem-vindo ao nosso site de Alimentação Saudável Fresh Food!
 
-Este site foi desenvolvido com o objetivo de promover hábitos alimentares mais saudáveis, oferecendo informações acessíveis, dicas nutricionais, receitas balanceadas e conteúdos educativos sobre a importância de uma boa alimentação no dia a dia.
+Este site foi desenvolvido com o objetivo de promover hábitos alimentares mais saudáveis, oferecendo informações acessíveis, dicas nutricionais e conteúdos educativos sobre a importância de uma boa alimentação no dia a dia.
 
 Pensado para ser simples, interativo e informativo, o site foi criado utilizando as seguintes linguagens de programação:
 
