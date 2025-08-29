@@ -4,7 +4,7 @@ Projeto Acex
 
 <img width="1362" height="627" alt="image" src="https://github.com/user-attachments/assets/42b4019f-c4b7-485b-ae2c-44044f3725df" />
 
-Bem-vindo ao nosso site de Alimentação Saudável!
+Bem-vindo ao nosso site de Alimentação Saudável Fresh Food!
 
 Este site foi desenvolvido com o objetivo de promover hábitos alimentares mais saudáveis, oferecendo informações acessíveis, dicas nutricionais, receitas balanceadas e conteúdos educativos sobre a importância de uma boa alimentação no dia a dia.
 
